@@ -1,0 +1,8 @@
+# Starter Content
+Content/FirstPerson
+Content/StarterContent
+
+# Temporary files
+Intermediate/*Cache*
+Intermediate/*Temp*
+Saved/*
