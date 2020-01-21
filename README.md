@@ -1,3 +1,5 @@
+![Screenshot](Screenshot.jpg)
+
 ## Files not in Git
 
 - `Content/FirstPerson` (assets from starter content)
